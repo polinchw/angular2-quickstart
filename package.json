@@ -1,6 +1,6 @@
 {
   "name": "angular-quickstart",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
   "scripts": {
     "build": "tsc -p src/",
@@ -21,7 +21,7 @@
     "lint": "tslint ./src/**/*.ts -t verbose"
   },
   "keywords": [],
-  "author": "",
+  "author": "William Polinchak",
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~2.4.0",
